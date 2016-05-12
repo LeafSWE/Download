@@ -1623,7 +1623,7 @@
 	}
 
 	body {
-		background: #312450;
+		background: #9C0015;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1722,10 +1722,7 @@
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: linear-gradient(to right, #f0f0f0, #f0f0f0);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -2485,7 +2482,7 @@
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #b74e91;
+			color: #f0f0f0;
 			content: '\f00c';
 		}
 
@@ -2566,27 +2563,27 @@
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
+					color: #f0f0f0;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #f0f0f0;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #f0f0f0;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #f0f0f0;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #f0f0f0;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #f0f0f0;
 				}
 
 /* Image */
@@ -3256,7 +3253,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #f0f0f0;
 		}
 
 		.wrapper.style1-alt {
@@ -3272,7 +3269,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #f0f0f0;
 		}
 
 		.wrapper.style3-alt {
@@ -3383,7 +3380,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #f0f0f0;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3869,7 +3866,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #f0f0f0;
 						}
 
 		}
